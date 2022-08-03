@@ -24,7 +24,7 @@ Example Notebooks
 
   Demonstration of Embedding a categorical column with high cardinality
 
-* https://github.com/dcpatton/Structured-Data/blob/main/deep_solar.ipynb   (IN PROGRESS)
+* https://github.com/dcpatton/Structured-Data/blob/main/deep_solar.ipynb
 
   Large regression problem with lots of imputation techniques
 
